@@ -16,16 +16,21 @@ A Flutter application for managing your book collection with Material Design 3 i
 
 ### Light Mode
 <div style="display: flex; gap: 10px;">
-    <img src="lib/assets/screenshots/light_home.png" width="200" alt="Light Mode Home"/>
-    <img src="lib/assets/screenshots/light_add.png" width="200" alt="Light Mode Add Book"/>
-    <img src="lib/assets/screenshots/light_swipe.png" width="200" alt="Light Mode Swipe Actions"/>
+    <img src="lib/assets/screenshots/Light-Mode.png" width="200" alt="Light Mode Home"/>
+    <img src="lib/assets/screenshots/Add-Book.png" width="200" alt="Add Book"/>
+    <img src="lib/assets/screenshots/Edit-Book.png" width="200" alt="Edit Book"/>
 </div>
 
-### Dark Mode
+### Actions & Dark Mode
 <div style="display: flex; gap: 10px;">
-    <img src="lib/assets/screenshots/dark_home.png" width="200" alt="Dark Mode Home"/>
-    <img src="lib/assets/screenshots/dark_add.png" width="200" alt="Dark Mode Add Book"/>
-    <img src="lib/assets/screenshots/dark_swipe.png" width="200" alt="Dark Mode Swipe Actions"/>
+    <img src="lib/assets/screenshots/Dark-Mode.png" width="200" alt="Dark Mode"/>
+    <img src="lib/assets/screenshots/Swipe-to-Edit.png" width="200" alt="Swipe to Edit"/>
+    <img src="lib/assets/screenshots/Swipe-to-Delete.png" width="200" alt="Swipe to Delete"/>
+</div>
+
+### Confirmations
+<div style="display: flex; gap: 10px;">
+    <img src="lib/assets/screenshots/Delete-Confirmation.png" width="200" alt="Delete Confirmation"/>
 </div>
 
 ## Getting Started
